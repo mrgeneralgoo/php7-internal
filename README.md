@@ -10,9 +10,10 @@
 ## 纸质版
 <div align="center">
     <img src="img/book.jpg" height="280" >
-
-    (coming soon)
 </div>
+
+[京东](https://item.jd.com/12267210.html)
+[当当](http://product.dangdang.com/25185400.html)
 
 ## 目录：
 * 第1章 PHP基本架构
@@ -114,7 +115,10 @@
       * [8.3.2 use导入](8/namespace.md)
       * [8.3.3 动态用法](8/namespace.md)
  
-## 附录
-   * [附录1：break/continue按标签中断语法实现](try/break.md)
-   * 附录2：defer推迟函数调用语法的实现
+## 实现PHP新特性
+   * [1、break/continue按标签中断语法实现](try/break.md)
+   * 2、defer语法
+   * 3、协程
+     * 3.1 协程的原理
+     * 3.2 上下文切换
 
